@@ -1,6 +1,6 @@
 # metis-radar
 
-Quality control check of dual-polarisation radars (Μῆτις is the greek godess of quality!)
+Quality control check of dual-polarisation radars (Μῆτις is the greek godess of quality!). For ODIM H5 radar files.
 
 ## Bibliography
 
